@@ -19,6 +19,10 @@
         <activity
             android:name=".HorarioActivity"
             android:label="@string/title_activity_horario"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".cambiarClaveActivity"
+            android:label="@string/title_activity_cambiar_clave"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
