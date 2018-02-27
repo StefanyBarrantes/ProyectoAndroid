@@ -9,8 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
-        </activity>
+        <activity android:name=".MainActivity"></activity>
         <activity
             android:name=".HorarioActivity"
             android:label="@string/title_activity_horario"
@@ -19,15 +18,12 @@
             android:name=".cambiarClaveActivity"
             android:label="@string/title_activity_cambiar_clave"
             android:theme="@style/AppTheme.NoActionBar" />
-
-        <activity android:name=".Splash" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
-            >
+        <activity android:name=".MySplash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
     </application>
 
