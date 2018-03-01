@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Proyecto</string>
+    <string name="app_name">INVENIO</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_horario">HorarioActivity</string>
     <string name="title_activity_cambiar_clave">cambiarClave</string>
