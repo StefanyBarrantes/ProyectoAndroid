@@ -25,7 +25,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Registrarse"></activity>
+        <activity android:name=".Registrarse" />
+
+        <activity android:name=".RecuperarClave" />
+
+        <activity android:name=".Login">
+
+        </activity>
+
     </application>
 
 </manifest>

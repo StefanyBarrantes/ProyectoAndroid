@@ -5,4 +5,14 @@
     <string name="title_activity_cambiar_clave">cambiarClave</string>
     <string name="title_activity_splash">Splash</string>
     <string name="invenio">invenio</string>
+    <string name="recuperar_clave">Recuperar Clave</string>
+    <string name="todo">TODO</string>
+    <string name="s">s</string>
+    <string name="correo2">Correo</string>
+    <string name="identificacion2">Identificacion</string>
+    <string name="registrar">registrar</string>
+    <string name="correo">correo</string>
+    <string name="estudiante">estudiante</string>
+    <string name="identificacion">identificacion</string>
+
 </resources>
